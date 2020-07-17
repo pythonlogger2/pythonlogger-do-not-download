@@ -1,3 +1,3 @@
 import os;
-print("ceci est un test loulilol");
+print("ceci qzdqzdqzd");
 os.system("pause");
